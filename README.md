@@ -10,4 +10,14 @@ Este repositorio contiene los archivos requeridos para el proyecto final de los 
 - CONTRIBUTING.md
 - simple-interest.sh
 
-Este proyecto demuestra el uso básico del control de versiones, ramas, pull requests y buenas prácticas de documentación en repositorios.
+## Descripción
+
+Este proyecto demuestra el uso de:
+- Control de versiones con Git
+- Buenas prácticas con GitHub
+- Manejo de ramas y pull requests
+- Documentación estándar en repositorios públicos
+
+## Autor
+
+Runpeltinskil 🚀
